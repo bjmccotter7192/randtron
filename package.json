@@ -1,0 +1,23 @@
+{
+  "name": "randtron",
+  "version": "1.0.0",
+  "description": "This is a cool slack bot that will spit out random facts (eventually).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjmccotter7192/randtron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjmccotter7192/randtron/issues"
+  },
+  "homepage": "https://github.com/bjmccotter7192/randtron#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1",
+    "dotenv": "^16.0.2"
+  }
+}
