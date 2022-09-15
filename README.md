@@ -1,2 +1,5 @@
-# randtron
-This is a super cool Slack bot that will give you random facts (eventually).
+# Slack Certified Developer Training Workshops
+
+This repo was used to take my Certified Developer training.
+
+It includes the workshop examples 1 - 7 on how to create a `nodejs` slack application.
